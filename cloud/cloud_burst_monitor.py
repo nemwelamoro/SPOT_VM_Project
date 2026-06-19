@@ -4,7 +4,7 @@ from create_spot_vm import create_spot_vm
 
 # ==================== CONFIGURATION ====================
 PROJECT_ID = "project-5ca47de0-b0a2-43a7-aed"                   
-ZONE = "us-central1-a"                            
+ZONE = "us-central1-b"                            
 BUCKET = "ai-model-registry-aice"                 
 MODEL_PREFIX = "t5-small/v1.0.0/"                 
 
